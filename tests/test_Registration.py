@@ -15,6 +15,7 @@ class TestTwo(BaseClass):
 
         log=self.getlogd()
         print("adding the all the files")
+        print("added again print")
 
         form_page=Registration(self.driver)
         log.info("for entering firstname::" +getData['firstname'])
