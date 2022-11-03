@@ -1,0 +1,63 @@
+2022-11-02 23:16:49,715 : INFO : test_Registration : for entering firstname
+2022-11-02 23:16:49,880 : INFO : test_Registration : for entering email
+2022-11-02 23:16:50,113 : INFO : test_Registration : for entering pwd
+2022-11-02 23:16:50,503 : INFO : test_Registration : for entering gender
+2022-11-02 23:17:01,180 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-02 23:17:12,195 : INFO : test_Registration : for entering firstname
+2022-11-02 23:17:12,195 : INFO : test_Registration : for entering firstname
+2022-11-02 23:17:12,486 : INFO : test_Registration : for entering email
+2022-11-02 23:17:12,486 : INFO : test_Registration : for entering email
+2022-11-02 23:17:12,872 : INFO : test_Registration : for entering pwd
+2022-11-02 23:17:12,872 : INFO : test_Registration : for entering pwd
+2022-11-02 23:17:13,389 : INFO : test_Registration : for entering gender
+2022-11-02 23:17:13,389 : INFO : test_Registration : for entering gender
+2022-11-02 23:17:24,794 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-02 23:17:24,794 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-02 23:27:29,979 : INFO : test_Registration : for entering firstname::Lakshmi
+2022-11-02 23:27:30,173 : INFO : test_Registration : for entering email::Lakshmi@gmail.com
+2022-11-02 23:27:30,386 : INFO : test_Registration : for entering pwd::Lakshmi@123
+2022-11-02 23:27:41,351 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-02 23:27:52,252 : INFO : test_Registration : for entering firstname::Mohan
+2022-11-02 23:27:52,252 : INFO : test_Registration : for entering firstname::Mohan
+2022-11-02 23:27:52,679 : INFO : test_Registration : for entering email::Moa@gmail.com
+2022-11-02 23:27:52,679 : INFO : test_Registration : for entering email::Moa@gmail.com
+2022-11-02 23:27:53,021 : INFO : test_Registration : for entering pwd::Moan@123
+2022-11-02 23:27:53,021 : INFO : test_Registration : for entering pwd::Moan@123
+2022-11-02 23:28:04,454 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-02 23:28:04,454 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-02 23:49:06,625 : INFO : test_Registration : for entering firstname::Lakshmi
+2022-11-02 23:49:06,832 : INFO : test_Registration : for entering email::Lakshmi@gmail.com
+2022-11-02 23:49:07,036 : INFO : test_Registration : for entering pwd::Lakshmi@123
+2022-11-02 23:49:18,008 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-02 23:49:29,177 : INFO : test_Registration : for entering firstname::Mohan
+2022-11-02 23:49:29,177 : INFO : test_Registration : for entering firstname::Mohan
+2022-11-02 23:49:29,412 : INFO : test_Registration : for entering email::Moa@gmail.com
+2022-11-02 23:49:29,412 : INFO : test_Registration : for entering email::Moa@gmail.com
+2022-11-02 23:49:29,749 : INFO : test_Registration : for entering pwd::Moan@123
+2022-11-02 23:49:29,749 : INFO : test_Registration : for entering pwd::Moan@123
+2022-11-02 23:49:40,955 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-02 23:49:40,955 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-03 17:50:55,118 : INFO : test_Registration : for entering firstname::Lakshmi
+2022-11-03 17:50:55,531 : INFO : test_Registration : for entering email::Lakshmi@gmail.com
+2022-11-03 17:50:55,838 : INFO : test_Registration : for entering pwd::Lakshmi@123
+2022-11-03 17:51:07,692 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-03 17:51:19,498 : INFO : test_Registration : for entering firstname::Mohan
+2022-11-03 17:51:19,498 : INFO : test_Registration : for entering firstname::Mohan
+2022-11-03 17:51:19,898 : INFO : test_Registration : for entering email::Moa@gmail.com
+2022-11-03 17:51:19,898 : INFO : test_Registration : for entering email::Moa@gmail.com
+2022-11-03 17:51:20,583 : INFO : test_Registration : for entering pwd::Moan@123
+2022-11-03 17:51:20,583 : INFO : test_Registration : for entering pwd::Moan@123
+2022-11-03 17:51:32,442 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-03 17:51:32,442 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
