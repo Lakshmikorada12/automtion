@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="19.006" timestamp="2022-10-30T20:13:07.013834" hostname="DESKTOP-OG2FSU7"><testcase classname="tests.test_e2e.TestVerifyRahul" name="test_e2e" time="18.912" /></testsuite></testsuites>
