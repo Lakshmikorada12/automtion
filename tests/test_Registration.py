@@ -14,8 +14,8 @@ class TestTwo(BaseClass):
         self.driver.get("https://rahulshettyacademy.com/angularpractice/")
 
         log=self.getlogd()
-        print("adding the all the files")
-        print("added again print")
+        print("gitpractise1")
+        print("gitpractise2")
 
         form_page=Registration(self.driver)
         log.info("for entering firstname::" +getData['firstname'])
@@ -27,6 +27,7 @@ class TestTwo(BaseClass):
         log.info("for entering pwd::"+getData['pwd'])
         form_page.getPassword().send_keys(getData['pwd'])
         form_page.getcheckboxes().click()
+        log.info("for entering gendergitpractise::" + getData['gender'])
         self.selectoptionbytext(form_page.getgender(),getData['gender'])
         form_page.getEmploymentStatus().click()
         form_page.getdateofbirth().send_keys(getData['date'])
