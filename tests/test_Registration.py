@@ -37,7 +37,7 @@ class TestTwo(BaseClass):
         text_found=confirmation_text.confim_text().text
         log.info("the text:"+text_found)
         time.sleep(10)
-        assert("lhhhgggfff" in text_found)
+        assert("Sucess" in text_found)
         #self.driver.refresh()
     @pytest.fixture(params=HomePageData.test_homepage_data)
     def getData(self,request):
