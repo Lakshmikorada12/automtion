@@ -12,7 +12,9 @@ class TestTwo(BaseClass):
 
     def test_Registration(self,getData):
         self.driver.get("https://rahulshettyacademy.com/angularpractice/")
+
         log=self.getlogd()
+        print("adding the all the files")
 
         form_page=Registration(self.driver)
         log.info("for entering firstname::" +getData['firstname'])
