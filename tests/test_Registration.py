@@ -47,6 +47,7 @@ class TestTwo(BaseClass):
         print("branching functinality")
     def branch11(self):
         print("unwanted things")
+        print("hi")
 
 
 
