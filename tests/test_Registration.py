@@ -38,10 +38,13 @@ class TestTwo(BaseClass):
         log.info("the text:"+text_found)
         time.sleep(10)
         assert("Sucess" in text_found)
+        print("branching fun")
         #self.driver.refresh()
     @pytest.fixture(params=HomePageData.test_homepage_data)
     def getData(self,request):
         return request.param
+    def branch(self):
+        print("branching functinality")
 
 
 
