@@ -45,6 +45,8 @@ class TestTwo(BaseClass):
         return request.param
     def branch(self):
         print("branching functinality")
+    def branch11(self):
+        print("unwanted things")
 
 
 
