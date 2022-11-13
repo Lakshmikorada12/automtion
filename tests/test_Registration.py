@@ -1,15 +1,12 @@
 import time
-
+#import allure
 import pytest
-from selenium.webdriver import ActionChains
-
 from TestData.HomePageData import HomePageData
 from pageobjects.Registration import Registration
 from utilies.BaseClass import BaseClass
-
-
 class TestTwo(BaseClass):
-
+    #@allure.description("registeredform")
+    #@allure.severity(allure.severity_level.NORMAL)
     def test_Registration(self,getData):
         self.driver.get("https://rahulshettyacademy.com/angularpractice/")
         log=self.getlogd()
@@ -33,9 +30,16 @@ class TestTwo(BaseClass):
         text_found=confirmation_text.confim_text().text
         log.info("the text:"+text_found)
         time.sleep(10)
-        assert("Sucess" in text_found)
-        #self.driver.refresh()
-    @pytest.fixture(params=HomePageData.test_homepage_data)
+        #try:
+        assert("Success" in text_found)
+        #finally:
+            #if(AssertionError):
+               # allure.attach(self.driver.get_screenshot_as_png(),
+                              #name="details are wrong",attachment_type=allure.attachment_type.PNG)
+
+#self.driver.refresh()
+    #testcasename='test1'
+    @pytest.fixture(params=HomePageData.getTestData("test1"))
     def getData(self,request):
         return request.param
 

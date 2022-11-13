@@ -61,3 +61,13 @@ Success! The Form has been submitted successfully!.
 Success! The Form has been submitted successfully!.
 2022-11-03 00:19:50,592 : INFO : test_Registration : the text:×
 Success! The Form has been submitted successfully!.
+2022-11-13 12:45:37,122 : INFO : test_Registration : for entering firstname::lakshmi
+2022-11-13 12:45:38,195 : INFO : test_Registration : for entering email::korada@gmail.com
+2022-11-13 12:45:38,492 : INFO : test_Registration : for entering pwd::korada
+2022-11-13 12:45:50,143 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-13 12:46:27,387 : INFO : test_Registration : for entering firstname::lakshmi
+2022-11-13 12:46:27,616 : INFO : test_Registration : for entering email::korada@gmail.com
+2022-11-13 12:46:28,023 : INFO : test_Registration : for entering pwd::korada
+2022-11-13 12:46:39,313 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
