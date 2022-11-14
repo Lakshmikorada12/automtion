@@ -71,3 +71,49 @@ Success! The Form has been submitted successfully!.
 2022-11-13 12:46:28,023 : INFO : test_Registration : for entering pwd::korada
 2022-11-13 12:46:39,313 : INFO : test_Registration : the text:×
 Success! The Form has been submitted successfully!.
+2022-11-13 15:15:14,173 : INFO : test_Registration : for entering firstname::lakshmi
+2022-11-13 15:15:14,630 : INFO : test_Registration : for entering email::korada@gmail.com
+2022-11-13 15:15:14,958 : INFO : test_Registration : for entering pwd::korada
+2022-11-13 15:15:26,513 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-13 15:18:26,257 : INFO : test_Registration : for entering firstname::lakshmi
+2022-11-13 15:18:26,433 : INFO : test_Registration : for entering email::korada@gmail.com
+2022-11-13 15:18:26,702 : INFO : test_Registration : for entering pwd::korada
+2022-11-13 15:18:50,263 : INFO : test_Registration : for entering firstname::lakshmi
+2022-11-13 15:18:50,475 : INFO : test_Registration : for entering email::korada@gmail.com
+2022-11-13 15:18:50,722 : INFO : test_Registration : for entering pwd::korada
+2022-11-13 15:19:01,871 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-13 15:22:17,433 : INFO : test_Registration : for entering firstname::lakshmi
+2022-11-13 15:22:17,573 : INFO : test_Registration : for entering email::korada@gmail.com
+2022-11-13 15:22:17,763 : INFO : test_Registration : for entering pwd::korada
+2022-11-13 15:22:28,648 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-13 15:39:22,295 : INFO : test_Registration : for entering firstname::lakshmi
+2022-11-13 15:39:22,432 : INFO : test_Registration : for entering email::korada@gmail.com
+2022-11-13 15:39:22,670 : INFO : test_Registration : for entering pwd::korada
+2022-11-13 15:39:33,575 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-13 15:40:59,528 : INFO : test_Registration : for entering firstname::lakshmi
+2022-11-13 15:41:03,788 : INFO : test_Registration : for entering email::korada@gmail.com
+2022-11-13 15:41:04,770 : INFO : test_Registration : for entering pwd::korada
+2022-11-13 15:41:18,382 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-13 15:42:30,005 : INFO : test_Registration : for entering firstname::lakshmi
+2022-11-13 15:42:30,158 : INFO : test_Registration : for entering email::korada@gmail.com
+2022-11-13 15:42:30,496 : INFO : test_Registration : for entering pwd::korada
+2022-11-13 15:42:42,237 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-14 13:00:20,656 : INFO : test_Registration : for entering firstname::lakshmi
+2022-11-14 13:00:21,017 : INFO : test_Registration : for entering email::korada@gmail.com
+2022-11-14 13:00:22,186 : INFO : test_Registration : for entering pwd::korada
+2022-11-14 13:00:34,038 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
+2022-11-14 13:08:33,860 : INFO : test_Registration : for entering firstname::lakshmi
+2022-11-14 13:08:34,030 : INFO : test_Registration : for entering email::korada@gmail.com
+2022-11-14 13:08:34,236 : INFO : test_Registration : for entering pwd::korada
+2022-11-14 13:10:57,422 : INFO : test_Registration : for entering firstname::lakshmi
+2022-11-14 13:10:57,724 : INFO : test_Registration : for entering email::korada@gmail.com
+2022-11-14 13:10:57,904 : INFO : test_Registration : for entering pwd::korada
+2022-11-14 13:11:08,786 : INFO : test_Registration : the text:×
+Success! The Form has been submitted successfully!.
