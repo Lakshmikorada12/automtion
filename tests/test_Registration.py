@@ -1,12 +1,14 @@
 import time
+
+import allure
 #import allure
 import pytest
 from TestData.HomePageData import HomePageData
 from pageobjects.Registration import Registration
 from utilies.BaseClass import BaseClass
 class TestTwo(BaseClass):
-    #@allure.description("registeredform")
-    #@allure.severity(allure.severity_level.NORMAL)
+    allure.description("registeredform")
+    allure.severity(allure.severity_level.NORMAL)
     @pytest.mark.regression
     def test_Registration(self,getData):
         self.driver.get("https://rahulshettyacademy.com/angularpractice/")
